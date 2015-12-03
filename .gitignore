@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ################################################
 ###############  .gitignore   ##################
 ################################################
@@ -116,3 +117,7 @@ npm-debug.log
 nbproject
 .idea
 .node_history
+=======
+frontend/node_modules/*
+frontend/bower_components/*
+>>>>>>> 4258c3462ce94fb694dd23920f90ca873209bfee
