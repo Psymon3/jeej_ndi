@@ -6,7 +6,7 @@
   "keywords": [],
   "engines": {
     "node": "0.10.28"
-    },
+  },
   "dependencies": {
     "ejs": "~0.8.4",
     "express": "*",
